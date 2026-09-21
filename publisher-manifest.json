@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "135841bd9f520432316e484a",
+  "owner": "dkugxjkxpqg",
+  "repo": "page-f4ea84e59e94b72f61e06013",
+  "title": "InfiniPort",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f4ea84e59e94b72f61e06013",
+      "a": "InfiniPort",
+      "b": "机场官网线路发布页",
+      "entity": "InfiniPort",
+      "brand": "InfiniPort",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0b0c902761c99b714579331ea3680330f1f06a773ed78796068a9fb9d833676a",
+      "content": {
+        "primary_entity": "InfiniPort",
+        "keyword1": "InfiniPort",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，InfiniPort 提供按月与按年两种订阅周期，基础版每月 100GB 流量适合轻度浏览，旗舰版每月 300GB 并优化游戏专线，团队版每月 1000GB 支持 20 台设备，用户可按设备数量与流量需求灵活选择。",
+          "AI_HERO_SUBTITLE": "按需选套餐，设备随心连",
+          "AI_HERO_INTRO": "InfiniPort 是面向多设备用户的海外加速服务，提供基础版、旗舰版与团队版三档套餐，覆盖每月 100GB 至 1000GB 流量，适配个人、游戏玩家与小团队的不同使用场景。",
+          "AI_VISUAL_TITLE": "InfiniPort 套餐一览",
+          "AI_HIGHLIGHT_1": "三档套餐，流量从 100GB 起",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备在线",
+          "AI_HIGHLIGHT_3": "年付方案比月付更划算",
+          "AI_FEATURES_TITLE": "套餐与设备选择",
+          "AI_FEATURES_INTRO": "根据设备数量与流量消耗，InfiniPort 提供三个层级的订阅方案，用户可依实际需求挑选。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按月计费。",
+          "AI_FEATURE_TITLE_2": "按设备数选档",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台设备可同时在线。",
+          "AI_FEATURE_TITLE_3": "按周期选档",
+          "AI_FEATURE_TEXT_3": "年付基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "InfiniPort 支持在常见代理客户端中导入订阅，按设备系统选择对应客户端并依其文档完成配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版兼顾流量与专线优化，团队版面向多设备高流量场景，均可按月或按年订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "选择合适套餐后，确认设备与适配要求，再依客户端文档导入订阅即可开始使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量，从基础版、旗舰版或团队版中选定套餐。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与所选客户端是否匹配，并了解同时在线设备数量限制。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在客户端中导入订阅链接，依客户端文档说明完成配置后连接使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "InfiniPort 套餐可以按月付还是按年付？",
+          "AI_FAQ_ANSWER_1": "基础版、旗舰版与团队版均支持按月或按年订阅，年付方案分别为 ¥150/年、¥350/年与 ¥850/年。",
+          "AI_FAQ_QUESTION_2": "同一时间最多能在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版为 5 台，团队版最多 20 台，可根据日常设备数量选择。",
+          "AI_FAQ_QUESTION_3": "流量用完后会怎样？",
+          "AI_FAQ_ANSWER_3": "每档套餐设有每月流量上限，基础版 100GB、旗舰版 300GB、团队版 1000GB，超出后需等待下月重置或升级套餐。",
+          "AI_FAQ_QUESTION_4": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "在所选客户端中按文档指引添加订阅链接即可，不同客户端的导入方式略有差异，建议先阅读对应客户端的配置说明。",
+          "AI_FAQ_QUESTION_5": "旗舰版与团队版的线路有什么区别？",
+          "AI_FAQ_ANSWER_5": "旗舰版提供 IPLC 专线游戏加速优化节点，团队版额外提供 VIP 专属高带宽节点并支持企业定制路由。",
+          "AI_CLOSING_TITLE": "选好套餐，即刻连接",
+          "AI_CLOSING_TEXT": "根据设备与流量需求选定 InfiniPort 套餐，按客户端文档配置订阅，即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yanyusilu.cn",
+    "host": "yanyusilu.cn"
+  },
+  "file_hashes": {
+    "index.html": "c1b12d7c79064c307992a4215f4f442d9a029c69af1a2697ca0c09d07707e0f1",
+    "sitemap.xml": "510441408dc343ab32d743627df705a74c417fcdac7eabd39d5e5c6932ae6d16",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2d64574218e8923d5d272525bbc4b54d0721780259a6a69563b1fb1c79d6ddf2",
+    "robots.txt": "6cc7c32fbbe8a28d01696d36aa18e07eab97a5448b6d813616c121a2f0c5ddd9",
+    "b85af69945b4975a7cd8c6babeb65f8e.txt": "8298c3fae0a17fa28ceb2e444ec48220a6189780838948d16c24c0134aa19776"
+  },
+  "revision": "33c700c827e1dc846e15e816df5f1e6d5e063902d28de17ea14137f9a5c27837"
+}
